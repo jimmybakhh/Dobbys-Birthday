@@ -1,0 +1,39 @@
+$primarycolor:#448cff;
+@import 'mixin';
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@import 'header';
+
+.btn-a {
+    color: red;
+    display: inline-block;
+    padding: 15px;
+    margin-right: 10px;
+    border: 1px solid $primarycolor;
+    border-radius: 7px;
+    font-size: 80%;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.btn-b {
+    @extend .btn-a;
+    background-color: lighten($primarycolor, $amount: 25%);
+}
+
+.group::before,
+.group::after{
+    content: "";
+    display: table;
+}
+
+.group::after{
+    clear: both;
+}
+
+.group{
+    zoom: 1;
+}

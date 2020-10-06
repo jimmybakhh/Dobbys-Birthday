@@ -1,0 +1,114 @@
+<table>
+    <thead>
+        <tr>
+            <th>hey</th>
+            <th>hey</th>
+            <th>hey</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>hoy</td>
+            <td>hoy</td>
+            <td>hoy</td>
+        </tr>
+        
+        <tr>
+            <td>hooy</td>
+            <td>hooy</td>
+            <td>hooy</td>
+        </tr>
+    </tbody>
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<form>
+						
+						<label for="email" class="hidden-label">Email</label>
+						<input type="email" name="email" id="email" placeholder="Email">
+						
+						<label for="password" class="hidden-label">Password</label>
+						<input type="password" name="password" id="password" placeholder="Password">
+						
+						<select>
+							<option>Initially view...</option>
+							<option>My Profile</option>
+							<option>Inbox</option>
+							<option>Account Settings</option>
+						</select>
+						
+						<input type="submit" value="Sign In">
+						
+						<label>
+							<input type="checkbox" name="remember" checked="checked" value="yes">
+							<span class="checkbox-text">Stay signed in</span>
+						</label>
+						
+					</form>
+					
+                    	<div class="musics">
+		<audio controls><source src="audio/02. Who's Gonna Save My Soul.mp3" type="audio/mpeg"></audio>
+			<p>whos</p>
+	</div>
+		<div class="musics">
+		<audio controls><source src="audio/05.Cemetery.mp3" type="audio/mpeg"></audio>
+			<p>Cemetery</p>
+	</div>
+	<div class="musics">
+		<audio controls><source src="audio/07 - Suicidal Dream.mp3" type="audio/mpeg"></audio>
+			<p>Suicidal Dream</p>
+	</div>
+	<div class="musics">
+		<audio controls><source src="audio/11 - The Dream Synopsis.mp3" type="audio/mpeg"></audio>
+			<p>The Dream Synopsis</p>
+	</div>
+	<div class="musics">
+		<audio controls><source src="audio/12 - The Girl In The Yellow Dress (Orchestral Version).mp3" type="audio/mpeg"></audio>
+			<p> The Girl In The Yellow Dress</p>
+	</div>
+	<div class="musics">
+		<audio controls><source src="audio/33_face_to_face_luz_elena_mendoza.mp3" type="audio/mpeg"></audio>
+			<p>face to face</p>
+	</div>
+	<div class="musics">
+		<audio controls><source src="audio/5. Culling Voices (Minutes To Metal N Rock).mp3" type="audio/mpeg"></audio>
+			<p>Culling Voices</p>
+	</div>
+	<div class="musics">
+		<audio controls><source src="audio/[@xyTune] Vàli - Et Ensomt Minne.mp3" type="audio/mpeg"></audio>
+			<p>Et Ensomt Minne</p>
+	</div>
+	<div class="musics">
+		<audio controls><source src="audio/Foreigner - Cold As Ice.mp3" type="audio/mpeg"></audio>
+			<p>Cold As Ice</p>
+	</div>
+	<div class="musics">
+		<audio controls><source src="audio/Funeral For Dad, Pt. II (It Was Nice To Have Known You).mp3" type="audio/mpeg"></audio>
+			<p>Funeral For Dad</p>
+	</div>
+	<div class="musics">
+		<audio controls><source src="audio/Harry Styles - Sign of the Times.mp3" type="audio/mpeg"></audio>
+			<p>Sign of the Times</p>
+	</div>
+	<div class="musics">
+		<audio controls><source src="audio/Thomas Azier - Babylon.mp3" type="audio/mpeg"></audio>
+			<p>Babylon</p>
+	</div>
+	<div class="musics">
+		<audio controls><source src="audio/Wistful_Esm_You_ll_Be_Safe_I_ll.mp3" type="audio/mpeg"></audio>
+			<p>You ll Be Safe I ll</p>
+	</div>
